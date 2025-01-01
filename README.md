@@ -63,7 +63,9 @@ The dataset contains the following columns:
 **Conclusion**
 This project is a testament to how Excel can go beyond simple spreadsheet tasks to perform advanced analytics and visualization. The dashboard provides actionable insights and encourages informed decision-making, particularly for optimizing product offerings and pricing strategies.
 
+
 **Dataset and live dashboard**  ---  https://github.com/Archanadevi-29/E-Commerce-Data-Analysis/commit/1d888ab1d92d8268b2304eafcd8c47b3ca524533
+
 **Visualization**  ---  https://github.com/Archanadevi-29/E-Commerce-Data-Analysis/blob/main/Screenshot%202025-01-01%20224340.png
 
 

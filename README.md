@@ -16,7 +16,6 @@ This project focuses on analyzing an e-commerce dataset using Microsoft Excel, u
 
 **Dataset Description**
  
- The dataset contains the following columns:
 
      --User_ID: Unique identifier for customers.
      --Product_ID: Unique identifier for products.
